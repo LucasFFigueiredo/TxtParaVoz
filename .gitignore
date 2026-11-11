@@ -1,0 +1,12 @@
+node_modules/
+web/dist/
+__pycache__/
+*.pyc
+.vercel/
+
+# arquivos de estudo locais (não versionar)
+*.mp3
+*.srt
+/*.txt
+!/requirements.txt
+saida/
